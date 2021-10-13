@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afsinlogoglu
 - 👀 I’m interested in JS
-- 🌱 I’m currently learning Node.js and Vue.js
+- 🌱 I’m currently learning Node.js 
 - 📫 How to reach me => '/instagram/afsinlogoglu'
 
 <!---
