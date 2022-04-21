@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @afsinlogoglu
 - 👀 I’m interested in JS
 - 🌱 I’m currently learning Node.js 
-- 📫 How to reach me => 'muhammedafsin@hotmail.com'
+- 📫 How to reach me => 'afsinlogoglu@gmail.com'
 
 <!---
 afsinlogoglu/afsinlogoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
