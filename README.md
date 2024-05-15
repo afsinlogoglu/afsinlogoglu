@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @afsinlogoglu
-- 👀 I’m interested in JS and PHP
-- 🌱 I’m currently learning Node.js 
+- 👀 I’m interested in Node.js and PHP
 - 📫 How to reach me => 'afsinlogoglu@gmail.com' or https://www.linkedin.com/in/afsinlogoglu/
 
 
